@@ -1,6 +1,7 @@
 # Flare Classification using LLM Vision Tools
 
-This repository contains **documentation, results, and example outputs** from my involvement in research of high temperature source classification.  
+This repository contains **documentation, results, and example outputs** from my involvement in research of high temperature source classification. **I encourage you to view my [reasearch poster](Poster.pdf)** from the Colorado School of Mines Computer Science Spring 2025 Innovation Fair.
+
 ⚠️ Note: The full implementation code is **not publicly available**
 
 # Abstract
